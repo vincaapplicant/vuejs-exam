@@ -13,6 +13,7 @@
         <button class="ui red icon button">
           <i class="trash alternate outline icon" v-on:click="deleteItem()"></i>
         </button>
+        test
       </div>
 
       <div class="ui column one wide"></div>
